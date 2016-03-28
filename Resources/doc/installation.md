@@ -15,6 +15,14 @@
 
 AmbtaDoctrineEncryptBundle should be installed usin [Composer](http://getcomposer.org/):
 
+Use composer require 
+
+``` bash
+$ php composer require ambta/doctrine-encrypt-bundle
+```
+ 
+or manualy 
+
 ``` js
 {
     "require": {
